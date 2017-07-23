@@ -1,0 +1,10 @@
+smach:
+1.enter the door and 介绍自己
+2.guests tell robot who is who and what they want 5 guests
+3.robot retell the name and thing it understands
+4.if failed understands, robot can ask again
+5.nav to pick the thing
+6.return to last room ,give the thing they want
+7.ask whether meet their need
+8.wancheng all tasks ,go out
+人脸识别的接口尽量还是采用往年的
